@@ -1,0 +1,6 @@
+{
+  "name": "Plaid Personal Finance",
+  "description": "Manage personal transactions and account balances by connecting your bank through Plaid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
